@@ -1,3 +1,2 @@
 #!/bin/bash
-cat /etc/passwd /etc/hosts > combo
-cat combo
+cat /etc/passwd /etc/hosts
